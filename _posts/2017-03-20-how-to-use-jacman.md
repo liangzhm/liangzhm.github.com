@@ -7,7 +7,7 @@ tags:
 categories: jekyll
 description: 熟悉玩转jekyll和github的同时，顺便写写markdown的入门语法
 ---
-##写在前面
+## 写在前面
 我想2017年想做一些有意义的事，比如：
 
 - 1.现在正在做的搭建一个自己的博客网站，以后的博客都在自己的网站上
@@ -18,7 +18,7 @@ description: 熟悉玩转jekyll和github的同时，顺便写写markdown的入�
 
 今天就下午花一下午的时间把博客搭建好，把markdown的语法和git基本命令学得滚瓜烂熟才是正道。
 
-##下面就是markdown的语法，这是二级菜单
+## 下面就是markdown的语法，这是二级菜单
 <!-- more -->
 
 ```
@@ -45,7 +45,7 @@ description: 熟悉玩转jekyll和github的同时，顺便写写markdown的入�
 
 ![](http://ww4.sinaimg.cn/large/81b78497jw1emgscr3575j2078050jrc.jpg) 这是一个图片链接。
 
-###三级菜单
+### 三级菜单
 - **Q：这是一个问题？**
 
 >往往它的答案是通过颜色较浅的字表示，开头设置了>号，显示的效果是有一条蓝色竖线。
